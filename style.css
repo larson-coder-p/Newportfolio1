@@ -1,0 +1,240 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+}body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+    
+.section-with-logo {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #fff;
+    margin: 20px;
+    height: 100vh;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.section-with-logo .logo {
+    flex: 1;
+}
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    margin-top: 0;
+}
+section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px 0;
+}
+#Home {
+    background: #b9b6a6;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    text-align: center;      
+    flex-direction: column;
+    font-size: large;
+}
+#Portfolio {
+    background: skyblue;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    text-align: center;      
+    flex-direction: column;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Resume {
+    background: lightgreen;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    text-align: center;      
+    flex-direction: column;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#Reach  {
+background: rgb(164, 221, 164);
+display: flex;
+justify-content: center; 
+align-items: center;     
+height: 100vh;           
+text-align: center;      
+flex-direction: column;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+ footer {
+    text-align: center;
+    padding: 10px ;
+    background-color: #333;
+    position: fixed;
+    bottom: o;
+    width: 100%;
+
+ }   
+ 
+
+header {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+    
+.section-with-logo {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #fff;
+    margin: 20px;
+    height: 100vh;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.section-with-logo .logo {
+    flex: 1;
+}
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    margin-top: 0;
+}
+section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px 0;
+}
+#Home {
+    background: #b9b6a6;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    text-align: center;      
+    flex-direction: column;
+    font-size: large;
+}
+#Portfolio {
+    background: skyblue;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    text-align: center;      
+    flex-direction: column;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Resume {
+    background: lightgreen;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    text-align: center;      
+    flex-direction: column;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#Reach  {
+background: rgb(164, 221, 164);
+display: flex;
+justify-content: center; 
+align-items: center;     
+height: 100vh;           
+text-align: center;      
+flex-direction: column;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+ 
